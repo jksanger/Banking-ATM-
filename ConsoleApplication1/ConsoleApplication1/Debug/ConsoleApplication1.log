@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+h:\users\bazooka\downloads\cs50_assignment 7_joseph sanger\consoleapplication1\consoleapplication1\consoleapplication1.cpp(75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\users\bazooka\downloads\cs50_assignment 7_joseph sanger\consoleapplication1\consoleapplication1\consoleapplication1.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\users\bazooka\downloads\cs50_assignment 7_joseph sanger\consoleapplication1\consoleapplication1\consoleapplication1.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\users\bazooka\downloads\cs50_assignment 7_joseph sanger\consoleapplication1\consoleapplication1\consoleapplication1.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> H:\Users\Bazooka\Downloads\CS50_Assignment 7_Joseph Sanger\ConsoleApplication1\Debug\ConsoleApplication1.exe
